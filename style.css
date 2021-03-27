@@ -1,0 +1,169 @@
+body{
+	background: whitesmoke;
+}
+
+.main{
+	text-align: center;
+	background: white;
+	height: 410px;
+	width: 350px;
+	border: 1px solid rgb(187, 187, 187);
+	border-radius: 1px;
+	margin-top: 100px;
+}
+
+.main2{
+text-align: center;
+	background: white;
+	height: 63px;
+	width: 350px;
+	border: 1px solid rgb(187, 187, 187);
+	border-radius: 1px;
+	margin-top: 100px;
+	position: relative;
+	bottom: 90px;
+}
+
+#textinst{
+	height: 41px;
+	position: relative;
+	top: 40px;
+}
+
+#un{
+	height: 36px;
+	width: 258px;
+	border: 1px solid rgb(187, 187, 187);
+	position: relative;
+	top: 80px;
+	border-radius: 3px
+}
+#un:focus{
+	outline: none;
+	border:solid 1px black;
+	border-radius: 3px
+}
+
+#psd{
+	height: 36px;
+	width: 258px;
+	border: 1px solid rgb(187, 187, 187);
+	position: relative;
+	top: 90px;
+	border-radius: 3px
+}
+#psd:focus{
+	outline: none;
+	border:solid 1px black;
+}
+#sbtn{
+	height: 30px;
+	width: 268px;
+	position: relative;
+	top: 110px;
+	border:none;
+	border-radius: 5px;
+	opacity: 0.5;
+	background: #71baeb;
+	color: white;
+	font-weight: bold;
+}
+
+button{
+	outline: none;
+}
+
+#sbtn:hover{
+	background-color: #00aeff;
+	opacity: 1;
+}
+
+#us{
+	position: relative;
+	top: 105px;
+	color: rgb(187, 187, 187);
+}
+
+#or{
+	position: relative;
+	top: 80px;
+	right: 3px;
+	color: rgb(187, 187, 187);
+
+}
+#fb-icon{
+	position: relative;
+	top: 95px;
+	right: 80px;
+	height: 19px;
+	width: 19px;
+}
+
+#fb{
+	position: relative;
+	top: 58px;
+	left: 14px;
+	font-size: 0.4cm;
+	color: #061869;
+}
+a{
+	color: blue;
+	text-decoration: none;
+}
+
+#fp{
+	color: #233552;
+	font-size: 0.3cm;
+	position: relative;
+	top: 65px;
+}
+#fp:link{
+ color: #233552;
+}
+
+#fp:alink{
+ color: #233552;
+}
+
+#fp:vlink{
+ color: #233552;
+}
+#dha{
+	font-size: 0.4cm;
+	position: relative;
+	top: 20px;
+}
+#sup{
+font-size: 0.4cm;
+position: relative;
+	top: 20px;
+	color: #00aeff;
+	font-weight: 530;
+}
+
+#andro{
+height: 44px;
+width: 136px;
+position: relative;
+bottom: 60px;
+}
+#ios{
+
+height: 44px;
+width: 136px;
+position: relative;
+bottom: 60px;
+}
+#selectlang{
+	border:none;
+	background: whitesmoke;
+	width:70px;
+}
+#selectlang:focus{
+	outline: none;
+}
+.abt{
+	font-size: 0.3cm;
+	color: grey;
+
+}
